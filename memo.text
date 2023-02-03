@@ -1,2 +1,5 @@
 say hello
 &こんばんは
+さらにさらに追加する
+
+let a =prompt('thisis')
